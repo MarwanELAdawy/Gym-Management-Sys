@@ -1,0 +1,225 @@
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\bin\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\bin\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.exe
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.pdb
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\bin\Debug\1 oop project gym.exe
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\bin\Debug\1 oop project gym.pdb
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.CustSignup.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.addcust.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.editcust.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.deletecust.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.displaycust.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.Manage.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.addequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.editequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym\1 oop project gym\obj\Debug\_1_oop_project_gym.displayequip.resources
+G:\1 oop project gym 2\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+G:\1 oop project gym 2\1 oop project gym\obj\Debug\1 oop project gym.exe
+G:\1 oop project gym 2\1 oop project gym\obj\Debug\1 oop project gym.pdb
+G:\0 All Projects\0Project Gym\1 oop project gym 2\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+G:\0 All Projects\0Project Gym\1 oop project gym 2\1 oop project gym\obj\Debug\1 oop project gym.exe
+G:\0 All Projects\0Project Gym\1 oop project gym 2\1 oop project gym\obj\Debug\1 oop project gym.pdb
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym 2\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym 2\1 oop project gym\obj\Debug\1 oop project gym.exe
+D:\University\Year 2\Semester 2\0 OOP\0Project Gym\1 oop project gym 2\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addcust.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletecust.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displaycust.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editcust.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editequip.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Manage.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addtraine.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.edittraine.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletetraine.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displaytraine.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addExercise.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editExercise.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteExercise.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayExercise.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addhall.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.edithall.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletehall.resources
+C:\Users\Mesho\Desktop\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayhall.resources
+F:\000\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+F:\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+F:\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+D:\000\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+D:\000\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe
+D:\000\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.pdb
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addequip.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addExercise.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addhall.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addtraine.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addcust.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletecust.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteequip.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteExercise.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletehall.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletetraine.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displaycust.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayequip.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayExercise.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayhall.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displaytraine.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editcust.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editequip.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editExercise.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.edithall.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.edittraine.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Manage.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.searchhall.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+D:\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\Mesho\Desktop\000\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\Mesho\Desktop\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\000\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\0 Final project\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\Mesho\Desktop\0 Final project\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\0 Final project\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+G:\0 All Projects\0Project Gym\0 Final project\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+G:\0 All Projects\0Project Gym\0 Final project\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+G:\0 All Projects\0Project Gym\0 Final project\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\bin\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addequip.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addExercise.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addhall.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addtraine.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.addcust.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletecust.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteequip.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteExercise.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletehall.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.deletetraine.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displaycust.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayequip.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayExercise.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displayhall.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.displaytraine.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editcust.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editequip.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.editExercise.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.edithall.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.edittraine.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Manage.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.searchhall.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+C:\Users\Mesho\Desktop\0 Final project OOP\1 oop project gym all\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\bin\Debug\1 oop project gym.exe
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\bin\Debug\1 oop project gym.pdb
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addequip.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addExercise.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addhall.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addtraine.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addcust.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deletecust.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteequip.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteExercise.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deletehall.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deletetraine.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displaycust.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displayequip.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displayExercise.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displayhall.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displaytraine.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.editcust.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.editequip.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.editExercise.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.edithall.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.edittraine.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Manage.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.searchhall.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+C:\Users\Mesho\Desktop\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\bin\Debug\1 oop project gym.exe
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\bin\Debug\1 oop project gym.exe.config
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\bin\Debug\1 oop project gym.pdb
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.csprojResolveAssemblyReference.cache
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addequip.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addExercise.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addhall.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addtraine.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Cust.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.CustLogin.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.addcust.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deletecust.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteequip.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deleteExercise.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deletehall.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.deletetraine.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displaycust.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displayequip.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displayExercise.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displayhall.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.displaytraine.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.editcust.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.editequip.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.editExercise.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.edithall.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.edittraine.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Manage.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.searchhall.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Traine.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Welcome.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\_1_oop_project_gym.Properties.Resources.resources
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.csproj.GenerateResource.Cache
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.exe
+C:\Users\marwa\Desktop\Project-OOP-GYM\Project OOP GYM\1 oop project gym\obj\Debug\1 oop project gym.pdb

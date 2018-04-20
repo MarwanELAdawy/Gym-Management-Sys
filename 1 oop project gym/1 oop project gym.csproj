@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{37693395-8510-4A8D-B93A-A603BF9BEF5A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_1_oop_project_gym</RootNamespace>
+    <AssemblyName>1 oop project gym</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addequip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addequip.Designer.cs">
+      <DependentUpon>addequip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addExercise.Designer.cs">
+      <DependentUpon>addExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addhall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addhall.Designer.cs">
+      <DependentUpon>addhall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addtraine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addtraine.Designer.cs">
+      <DependentUpon>addtraine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cust.Designer.cs">
+      <DependentUpon>Cust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustLogin.Designer.cs">
+      <DependentUpon>CustLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addcust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addcust.Designer.cs">
+      <DependentUpon>addcust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deletecust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletecust.Designer.cs">
+      <DependentUpon>deletecust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteequip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteequip.Designer.cs">
+      <DependentUpon>deleteequip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteExercise.Designer.cs">
+      <DependentUpon>deleteExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deletehall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletehall.Designer.cs">
+      <DependentUpon>deletehall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deletetraine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deletetraine.Designer.cs">
+      <DependentUpon>deletetraine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displaycust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displaycust.Designer.cs">
+      <DependentUpon>displaycust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displayequip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displayequip.Designer.cs">
+      <DependentUpon>displayequip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displayExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displayExercise.Designer.cs">
+      <DependentUpon>displayExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displayhall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displayhall.Designer.cs">
+      <DependentUpon>displayhall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displaytraine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displaytraine.Designer.cs">
+      <DependentUpon>displaytraine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editcust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editcust.Designer.cs">
+      <DependentUpon>editcust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editequip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editequip.Designer.cs">
+      <DependentUpon>editequip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editExercise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editExercise.Designer.cs">
+      <DependentUpon>editExercise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edithall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edithall.Designer.cs">
+      <DependentUpon>edithall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edittraine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edittraine.Designer.cs">
+      <DependentUpon>edittraine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage.Designer.cs">
+      <DependentUpon>Manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchhall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchhall.Designer.cs">
+      <DependentUpon>searchhall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Traine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Traine.Designer.cs">
+      <DependentUpon>Traine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="addequip.resx">
+      <DependentUpon>addequip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addExercise.resx">
+      <DependentUpon>addExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addhall.resx">
+      <DependentUpon>addhall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addtraine.resx">
+      <DependentUpon>addtraine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cust.resx">
+      <DependentUpon>Cust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustLogin.resx">
+      <DependentUpon>CustLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addcust.resx">
+      <DependentUpon>addcust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletecust.resx">
+      <DependentUpon>deletecust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteequip.resx">
+      <DependentUpon>deleteequip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteExercise.resx">
+      <DependentUpon>deleteExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletehall.resx">
+      <DependentUpon>deletehall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deletetraine.resx">
+      <DependentUpon>deletetraine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displaycust.resx">
+      <DependentUpon>displaycust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displayequip.resx">
+      <DependentUpon>displayequip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displayExercise.resx">
+      <DependentUpon>displayExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displayhall.resx">
+      <DependentUpon>displayhall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displaytraine.resx">
+      <DependentUpon>displaytraine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editcust.resx">
+      <DependentUpon>editcust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editequip.resx">
+      <DependentUpon>editequip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editExercise.resx">
+      <DependentUpon>editExercise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edithall.resx">
+      <DependentUpon>edithall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edittraine.resx">
+      <DependentUpon>edittraine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage.resx">
+      <DependentUpon>Manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchhall.resx">
+      <DependentUpon>searchhall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Traine.resx">
+      <DependentUpon>Traine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10419961_873292099347958_1755045766304167497_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-beautiful-women-working-out-in-gym-together-499280881.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-pretty-brunette-doing-crunches-in-front-of-a-mirror-in-a-gym-167044463.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\55.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\47.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sports-1962574__340.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weight-lifting-1284616__340.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\478.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
